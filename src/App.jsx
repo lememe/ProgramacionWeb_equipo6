@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1 className='title'>Fake Store</h1>
+      <h1 className='title' style={{color: "white"}}>F A K E  S T O R E</h1>
       <ProductList/>
     </div>
      
