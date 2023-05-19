@@ -19,14 +19,21 @@ img{
 .title{
   text-align: center;
   padding: 30px 0;
+<<<<<<< HEAD
   background-color: black;
 
+=======
+>>>>>>> d10f7feec0ac1944338aee72189b7790452465df
 }
 
 
 .container-products{
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: repeat(6,1fr);
+=======
+  grid-template-columns: repeat(3,1fr);
+>>>>>>> d10f7feec0ac1944338aee72189b7790452465df
   gap: 20px;
 }
 
@@ -45,7 +52,11 @@ img{
 
 .container-img img{
   width: 100%;
+<<<<<<< HEAD
   height: 250px;
+=======
+  height: 400px;
+>>>>>>> d10f7feec0ac1944338aee72189b7790452465df
   object-fit: contain;
 
 }
@@ -66,8 +77,13 @@ img{
 
 .price{
   color: #000;
+<<<<<<< HEAD
   font-weight: 900;
   margin: 30px 0;
+=======
+  font-weight: 700;
+  margin: 15px 0;
+>>>>>>> d10f7feec0ac1944338aee72189b7790452465df
 }
 
 .info-product button{
